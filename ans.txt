@@ -1,0 +1,8 @@
+Item code: 0
+discount rate : 0%
+Discounted Price 0
+Item code: 100
+discount rate : 20%
+Discounted Price 800
+Destructor called
+Destructor called
